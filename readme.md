@@ -1,6 +1,5 @@
 # **Hospital Management System **
 ## Kelompok Besar 16
-### nurse doctor BE
 
 |No.| Nama | Kelas |
 |:-|:-|:-|
